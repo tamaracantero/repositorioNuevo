@@ -10,5 +10,7 @@ package github;
  * @author valkiria
  */
 public class Cuadrilatero {
-    
+    //atributos
+    private double alto;
+    private double largo;
 }
