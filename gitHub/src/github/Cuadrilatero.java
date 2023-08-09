@@ -11,7 +11,7 @@ public class Cuadrilatero {
         this.alto = alto;
         this.largo = largo;
     }
-
+    //getters y setters
     public double getAlto() {
         return alto;
     }
@@ -27,5 +27,9 @@ public class Cuadrilatero {
     public void setLargo(double largo) {
         this.largo = largo;
     }
-    
+    //otros metodos adicionales
+public double calcularPerimetro(){
+        return largo*2+alto*2;
+}
+
 }
