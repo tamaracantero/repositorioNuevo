@@ -17,6 +17,7 @@ public class GitHub {
     public static void main(String[] args) {
         
         System.out.println("Pinche git"); // hecho por Joaquin
+        System.out.println("Pinche net beans"); //hecho Juan
     }
     
 }
