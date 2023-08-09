@@ -21,7 +21,6 @@ public class GitHub {
         System.out.println("hola compas");//hecho por tamara
         System.out.println("Pipipipi");//by Tomi Rivero
 
-
         /*) En un nuevo proyecto crear una clase de nombre Cuadrilatero con los atributos largo y alto, un
 constructor que permita inicializar dichos atributos, sus respectivos getter y setter y los siguientes
 métodos adicionales:
@@ -36,7 +35,6 @@ a) Mostrar por consola su perímetro
 b) Mostrar por consola su superficie.
 c) Mostrar por consola si es un cuadrado o no.
 d) Cambiar el estado de uno de sus atributos para que sea un cuadrado*/
-
     }
     
 }
