@@ -34,4 +34,8 @@ public double calcularPerimetro(){
 public double clacularArea(){
     return largo*alto;
 }
+public boolean esUnCuadrado(){
+        return largo == alto;
+    }
+
 }
