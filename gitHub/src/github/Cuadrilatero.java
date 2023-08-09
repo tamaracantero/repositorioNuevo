@@ -31,5 +31,7 @@ public class Cuadrilatero {
 public double calcularPerimetro(){
         return largo*2+alto*2;
 }
-
+public double clacularArea(){
+    return largo*alto;
+}
 }
